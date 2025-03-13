@@ -21,7 +21,7 @@ In order to understand if players in one cluster are more important in a team's 
 
 Failed to reject the null hypothesis with a significance level of 0.05 that, β = 0.
 
-From the above analysis of Team rank and fraction of players in each cluster it is clear that there is no significance when applying linear regression to all four plots. This suggests that there is no relationship between how good a team is and membership in a particular cluster. **All clusters are equally important, suggesting there is no one type of player that dominates the NBA.**
+From the above analysis of Team rank and fraction of players in each cluster it is clear that there's no significance when applying linear regression to all four plots. This suggests that there is no relationship between how good a team is and membership in a particular cluster. **All clusters are equally important, suggesting there is no one type of player that dominates the NBA.**
 
 ### Average Variance and Mean Absolute Deviation of Teams
 ![__results___108_0](https://user-images.githubusercontent.com/93088807/197339230-a0941d10-3982-4980-a27f-20d19d82c04b.png)
@@ -55,7 +55,7 @@ Attribute Information:
 **seasons_stats.csv**
 
 Over 50 performance stats,
-Here is a list of Columns in this file and their descriptions, [Glossary](https://www.basketball-reference.com/about/glossary.html)
+Here's a list of Columns in this file and their descriptions, [Glossary](https://www.basketball-reference.com/about/glossary.html)
 
 
 
